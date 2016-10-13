@@ -13,7 +13,7 @@ If you start with ASP.NET Identity, we provide an easy way to integrate with tha
 
 The quickstarts provide step by step instructions for various common identityserver scenarios.
 They start with the absolute basics and become more complex - 
-it is recommended you do them in in order.
+it is recommended you do them in order.
 
 Every quickstart has a reference solution - you can find the code in the 
 `IdentityServer4.Samples <https://github.com/IdentityServer/IdentityServer4.Samples>`_
